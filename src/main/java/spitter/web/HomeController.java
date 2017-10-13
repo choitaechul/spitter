@@ -12,7 +12,7 @@ public class HomeController {
 
   @RequestMapping(method = GET)
   public String home(Model model) {
-    return "home1";
+    return "home12S";
   }
 
 }
